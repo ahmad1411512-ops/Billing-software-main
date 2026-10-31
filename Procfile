@@ -1,0 +1,1 @@
+web: gunicorn Billing-software-main.wsgi:application
