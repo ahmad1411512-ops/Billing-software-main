@@ -9,7 +9,7 @@ It provides a seamless workflow for managing products, customers, payments, and 
 - 👥 Customer Management — Add, update, and track customer details  
 - 📦 Product Inventory — Manage stock levels, auto-update after billing  
 - 🧾 Invoice System — Create, view, and print invoices in PDF format  
-- 💰 Payments Module — Record and track cash, UPI, card, or bank payments  
+- 💰 Payments Module — Record and track cash, Jazzcash/Easypaisa, card, or bank payments  
 - 📊 Analytics Dashboard — Visualize sales, revenue, and stock trends  
 - 🕓 Timezone Safe — Automatically adjusts timestamps to local timezone  
 - ⚙️ Responsive UI — Built with HTML5, CSS3, Bootstrap 5, and JS  
